@@ -1,4 +1,5 @@
 setup=_=>{
+  pixelDensity(1);
   x=64,y=48,d=128
   createCanvas(x*8,y*8)
   strokeWeight(1)
