@@ -1,3 +1,4 @@
+p5.disableFriendlyErrors = true;
 setup=_=>{
   pixelDensity(1);
   x=64,y=48,d=128
